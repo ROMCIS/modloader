@@ -1,0 +1,13 @@
+<meta>
+   <info author="BoyKa" name="systemcarYRF" version="1.0" type="script" />
+
+	<file src="Font.ttf" />
+
+	<script src="act.lua" type="server" />
+	<script src="client.lua" type="client" cache="false" />
+	<script src="cars.lua" type="client" cache="false" />
+
+
+	<file src="vehicles/400.txd" download="false" />
+	<file src="vehicles/400.dff" download="false" />
+</meta>
